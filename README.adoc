@@ -1,14 +1,14 @@
 :hardbreaks-option:
 
-= Hello there ! I'm Virginie, aka Fairywen 🧚🏼‍♀️
+= Hello there! I'm Virginie, aka Fairywen 🧚🏼‍♀️
 
 Welcome to my GitHub profile !
 
-== Who am I ?
+== Who am I?
 
-Formerly C++ and C# developer, I am now in charge of quality assurance of payment solutions and internal DevRel at https://www.actoll.com/[Actoll].
+Formerly C++ and C# developer, I am now in charge of quality assurance of payment solutions, and internal DevRel at https://www.actoll.com/[Actoll].
 
-In 2022 I had a ✨_DevRevelation_✨ discovering speaker and DevRel roles at the Snowcamp event (in Grenoble, France), thanks to https://twitter.com/aurelievache[Aurélie Vache] and https://twitter.com/LostInBrittany[Horacio Gonzales] and their talk https://noti.st/aurelievache/PJZgaj/mais-a-quoi-ca-sert-un-devrel[Mais à quoi ça sert un DevRel ?] (_What is a DevRel for ?_).
+In 2022 I had a ✨_DevRevelation_✨ discovering speaker and DevRel roles at the Snowcamp event (in Grenoble, France), thanks to https://twitter.com/aurelievache[Aurélie Vache] and https://twitter.com/LostInBrittany[Horacio González] and their talk https://noti.st/aurelievache/PJZgaj/mais-a-quoi-ca-sert-un-devrel[Mais à quoi ça sert un DevRel ?] (_What is a DevRel for ?_).
 
 Since then, I gave my very first talk https://2022.camping-speakers.fr/sessions/la_fabrication_du_cognac_cest_pas_sorcier/[La fabrication du cognac c'est pas sorcier, mais c'est un peu magique] (_Crafting cognac is not rocket science, but still a little bit magic_) at the first edition of https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France).
 
