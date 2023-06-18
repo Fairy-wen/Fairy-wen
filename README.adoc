@@ -27,7 +27,7 @@ Since then, I gave my very first talk https://2022.camping-speakers.fr/sessions/
 
 == What to find here ?
 
-You will find sketchnotes from conferences I attended in my https://github.com/Fairy-wen/conferences_notes[conferences_notes repo].
+You will find sketchnotes and articles from conferences I attended in my https://fairy-wen.github.io/conferences_notes/[conferences_notes Github page].
 
 == Contact me
 
