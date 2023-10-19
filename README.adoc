@@ -6,18 +6,21 @@ Welcome to my GitHub profile !
 
 == Who am I?
 
-Formerly C++ and C# developer, I am now in charge of quality assurance of payment solutions, and internal DevRel at https://www.actoll.com/[Actoll].
+Formerly C++ and C# developer, I gradualy became in charge of quality assurance of payment solutions, and internal DevRel at https://www.actoll.com/[Actoll].
 
 In 2022 I had a ✨_DevRevelation_✨ discovering speaker and DevRel roles at the Snowcamp event (in Grenoble, France), thanks to https://twitter.com/aurelievache[Aurélie Vache] and https://twitter.com/LostInBrittany[Horacio González] and their talk https://noti.st/aurelievache/PJZgaj/mais-a-quoi-ca-sert-un-devrel[Mais à quoi ça sert un DevRel ?] (_What is a DevRel for ?_).
 
 Since then, I gave my very first talk https://2022.camping-speakers.fr/sessions/la_fabrication_du_cognac_cest_pas_sorcier/[La fabrication du cognac c'est pas sorcier, mais c'est un peu magique] (_Crafting cognac is not rocket science, but still a little bit magic_) at the first edition of https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France).
 
+I am now looking for DevRel or Product Owner roles.
+
 == Speaker productions 🥑🦄
 
 === 2023
 
-* 📝 https://snowcamp2023.sched.com/event/1EOv3/quelques-pistes-pour-soigner-ses-traces-dexecution[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://snowcamp2023.sched.com/[Snowcamp] (in Grenoble, France)
+* 📝 https://snowcamp2023.sched.com/event/1EOv3/quelques-pistes-pour-soigner-ses-traces-dexecution[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://snowcamp.io/fr/[Snowcamp] (in Grenoble, France)
 * 🗝️ https://camping-speakers.fr/sessions/revivez_la_cryptographie_de_nos_ancetres/[Revivez la cryptographie de nos ancêtres, de Lysandre de Sparte à Blaise de Vigenère] (_Experience our ancestors' cryptography again, from Lysandre of Sparte to Blaise of Vigenère_) with https://twitter.com/malvaultw[Willy Malvault] at https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France)
+* 📝 https://www.volcamp.io/talks/23d2t2s2[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://www.volcamp.io/https://www.volcamp.io/[Volcamp] (in Clermont-Ferrand, France)
 
 === 2022
 
@@ -32,5 +35,6 @@ You will find sketchnotes and articles from conferences I attended in my https:/
 == Contact me
 
 * https://twitter.com/La_Fee_Dragee[Twitter]
+* https://bsky.app/profile/la-fee-dragee.bsky.social[Bluesky]
 * https://www.linkedin.com/in/virginiecasavecchia/[LinkedIn]
 * https://dev.to/fairywen[DEV.to]
