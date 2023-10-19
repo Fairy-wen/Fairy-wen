@@ -6,13 +6,22 @@ Welcome to my GitHub profile !
 
 == Who am I?
 
-Formerly C++ and C# developer, I gradualy became in charge of quality assurance of payment solutions, and internal DevRel at https://www.actoll.com/[Actoll].
+=== Job side
+
+Formerly C++ and C# developer, I gradualy became in charge of quality assurance of payment solutions, and internal DevRel at Actoll.
 
 In 2022 I had a ✨_DevRevelation_✨ discovering speaker and DevRel roles at the Snowcamp event (in Grenoble, France), thanks to https://twitter.com/aurelievache[Aurélie Vache] and https://twitter.com/LostInBrittany[Horacio González] and their talk https://noti.st/aurelievache/PJZgaj/mais-a-quoi-ca-sert-un-devrel[Mais à quoi ça sert un DevRel ?] (_What is a DevRel for ?_).
 
-Since then, I gave my very first talk https://2022.camping-speakers.fr/sessions/la_fabrication_du_cognac_cest_pas_sorcier/[La fabrication du cognac c'est pas sorcier, mais c'est un peu magique] (_Crafting cognac is not rocket science, but still a little bit magic_) at the first edition of https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France).
+Since then, I gave my very first talk https://2022.camping-speakers.fr/sessions/la_fabrication_du_cognac_cest_pas_sorcier/[La fabrication du cognac c'est pas sorcier, mais c'est un peu magique] (_Crafting cognac is not rocket science, but still a little bit magic_) at the first edition of https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France)
 
 I am now looking for DevRel or Product Owner roles.
+
+=== Bug side
+
+I am not only a geek girl, I am also a wife and mum, and have several points of interest apart from IT.
+Since childhood, my biggest passion is music. I started learning the piano around 6 years old, then transverse flute around 13yo and I am now part of the band [Les Marmottes](https://www.facebook.com/LesMarmottesEpiques/) since 2012.
+
+I also like cooking, gardening, playing board or video games, reading, and I am always willing to learn or discover something new...
 
 == Speaker productions 🥑🦄
 
@@ -30,7 +39,7 @@ I am now looking for DevRel or Product Owner roles.
 
 == What to find here ?
 
-You will find sketchnotes and articles from conferences I attended in my https://fairy-wen.github.io/conferences_notes/[conferences_notes Github page].
+You will find sketchnotes and articles from conferences and concerts I attended in my https://fairy-wen.github.io/conferences_notes/[conferences_notes Github page].
 
 == Contact me
 
