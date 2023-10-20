@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile !
 
+image::./img/banniere.png[(Bruce) Banner]
+
 == Who am I?
 
 === Job side
