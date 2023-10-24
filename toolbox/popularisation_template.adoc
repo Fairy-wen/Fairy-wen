@@ -1,0 +1,61 @@
+:hardbreaks-option:
+
+= Popularization content template
+
+Based on Scilabus' template for popularization videos available here https://docs.google.com/document/d/1QEhSq_G_einqsHL4UYI6wbI6g9nZe0tsULGoygrnuHo/edit[link].
+
+== Possible titles
+. Title 1 (0/x)
+. Title 2 (0/x)
+. Title 3 (0/x)
+. *Chosen title* (0/x)
+. Title 5 (0/x)
+
+== Thumbnails (if relevant)
+
+. Likely image 1
+. Likely image 2
+. Likely image 3
+
+== Message
+
+_"This is a very very important message"_
+
+== Hook
+
+. Personal anecdote
+. Important total
+. Question
+. ...
+
+== Structure
+
+. First this
+. Then that
+. And in the end this
+
+== To add rythm
+
+. Fun fact
+. Joke
+. Special effect
+. Manipulation
+
+== Must be in the content
+
+. Element n°1 (source)
+. Element n°2 (source)
+. Element n°3 (source)
+. ...
+
+== "Nice to have"
+
+. Some stuff
+. Other stuff
+. More stuff ?
+
+== For online videos : in the description
+
+. Thanks to...
+. Link to something
+. Sources
