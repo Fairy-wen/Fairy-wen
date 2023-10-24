@@ -42,7 +42,7 @@ I also like cooking, gardening, playing board or video games, reading, and I am 
 == What to find here ?
 
 Some stuff in the toolbox directory :
-link:./toolbox/popularization_template[A popularization content template]
+link:./toolbox/popularisation_template[A popularization content template]
 
 You will find sketchnotes and articles from conferences and concerts I attended in my https://fairy-wen.github.io/conferences_notes/[conferences_notes Github page].
 
