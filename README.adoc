@@ -10,13 +10,13 @@ image::./img/banniere.png[(Bruce) Banner]
 
 === Job side
 
-Formerly C++ and C# developer, I gradualy became in charge of quality assurance of payment solutions, and internal DevRel at Actoll.
+Formerly C++ and C# developer, I gradually became in charge of quality assurance of payment solutions, and internal DevRel at Actoll.
 
-In 2022 I had a ✨_DevRevelation_✨ discovering speaker and DevRel roles at the Snowcamp event (in Grenoble, France), thanks to https://twitter.com/aurelievache[Aurélie Vache] and https://twitter.com/LostInBrittany[Horacio González] and their talk https://noti.st/aurelievache/PJZgaj/mais-a-quoi-ca-sert-un-devrel[Mais à quoi ça sert un DevRel ?] (_What is a DevRel for ?_).
+In 2022 I had a ✨_DevRevelation_✨ discovering speaker and DevRel roles at the https://snowcamp.io/[Snowcamp] event (in Grenoble, France), thanks to https://twitter.com/aurelievache[Aurélie Vache] and https://twitter.com/LostInBrittany[Horacio González] and their talk https://noti.st/aurelievache/PJZgaj/mais-a-quoi-ca-sert-un-devrel[Mais à quoi ça sert un DevRel ?] (_What is a DevRel for ?_).
 
-Since then, I gave my very first talk https://2022.camping-speakers.fr/sessions/la_fabrication_du_cognac_cest_pas_sorcier/[La fabrication du cognac c'est pas sorcier, mais c'est un peu magique] (_Crafting cognac is not rocket science, but still a little bit magic_) at the first edition of https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France)
+Since then, I gave my very first talk https://2022.camping-speakers.fr/sessions/la_fabrication_du_cognac_cest_pas_sorcier/[La fabrication du cognac c'est pas sorcier, mais c'est un peu magique] (_Crafting cognac is not rocket science, but still a little bit magic_) at the first edition of https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France), and became volunteer for https://snowcamp.io/[Snowcamp] event.
 
-I am now looking for DevRel or Product Owner roles.
+I am now interested in several roles such as DevRel, Solution Architect or Product Owner.
 
 === Bug side
 
