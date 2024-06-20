@@ -44,7 +44,9 @@ I also like cooking, gardening, playing board or video games, reading, and I am 
 Some stuff in the toolbox directory :
 link:./toolbox/popularisation_template.adoc[A popularization content template]
 
-You will find sketchnotes and articles from conferences and concerts I attended in my https://fairy-wen.github.io/conferences_notes/[conferences_notes Github page].
+A side-project https://github.com/Fairy-wen/app-recettes[just here]
+
+Sketchnotes and articles on my https://virginie-blog.pageaud.net/[personal blog].
 
 == Contact me
 
