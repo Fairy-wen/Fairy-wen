@@ -29,7 +29,7 @@ I also like cooking, gardening, playing board or video games, reading, and I am 
 
 === 2023
 
-* 📝 https://snowcamp2023.sched.com/event/1EOv3/quelques-pistes-pour-soigner-ses-traces-dexecution[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://snowcamp.io/fr/[Snowcamp] (in Grenoble, France)
+* 📝 https://www.youtube.com/watch?v=ZMCgGsP4E3k[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://snowcamp.io/fr/[Snowcamp] (in Grenoble, France)
 * 🗝️ https://camping-speakers.fr/sessions/revivez_la_cryptographie_de_nos_ancetres/[Revivez la cryptographie de nos ancêtres, de Lysandre de Sparte à Blaise de Vigenère] (_Experience our ancestors' cryptography again, from Lysandre of Sparte to Blaise of Vigenère_) with https://twitter.com/malvaultw[Willy Malvault] at https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France)
 * 📝 https://www.volcamp.io/talks/23d2t2s2[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://www.volcamp.io/https://www.volcamp.io/[Volcamp] (in Clermont-Ferrand, France)
 
