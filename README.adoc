@@ -16,7 +16,7 @@ In 2022 I had a ✨_DevRevelation_✨ discovering speaker and DevRel roles at th
 
 Since then, I became a speaker too, and even volunteers for https://snowcamp.io/[Snowcamp] event.
 
-I am now interested in several roles such as DevRel, Solution Architect or Product Owner.
+I am now a Customer Success Engineer at https://www.quarkslab.com/[Quarkslab].
 
 === Bug side
 
@@ -27,11 +27,15 @@ I also like cooking, gardening, playing board or video games, reading, and I am 
 
 == Speaker productions 🥑🦄
 
+=== 2024
+
+* 📝 https://devfest-2024.developers-group-dijon.fr/session/ffnpaan4nrclaemrlulc/[Comment ne plus avoir peur de vos fichiers de log] (_How to stop being scared of your log files_) at https://devfest.developers-group-dijon.fr/[DevFest Dijon] (in Dijon, France)
+
 === 2023
 
-* 📝 https://www.youtube.com/watch?v=ZMCgGsP4E3k[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://snowcamp.io/fr/[Snowcamp] (in Grenoble, France)
+* 📝 https://snowcamp2023.sched.com/event/1EOv3/quelques-pistes-pour-soigner-ses-traces-dexecution[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://snowcamp.io/fr/[Snowcamp] (in Grenoble, France)
 * 🗝️ https://camping-speakers.fr/sessions/revivez_la_cryptographie_de_nos_ancetres/[Revivez la cryptographie de nos ancêtres, de Lysandre de Sparte à Blaise de Vigenère] (_Experience our ancestors' cryptography again, from Lysandre of Sparte to Blaise of Vigenère_) with https://twitter.com/malvaultw[Willy Malvault] at https://2022.camping-speakers.fr/sessions/[Le Camping des Speakers] (in Baden, France)
-* 📝 https://www.volcamp.io/talks/23d2t2s2[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://www.volcamp.io/https://www.volcamp.io/[Volcamp] (in Clermont-Ferrand, France)
+* 📝 https://www.youtube.com/watch?v=ZMCgGsP4E3k[Quelques pistes pour soigner ses traces d'exécution] (_Some leads to take care of our logs_) at https://www.volcamp.io/https://www.volcamp.io/[Volcamp] (in Clermont-Ferrand, France)
 
 === 2022
 
