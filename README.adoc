@@ -27,6 +27,11 @@ I also like cooking, gardening, playing board or video games, reading, and I am 
 
 == Speaker productions 🥑🦄
 
+=== 2025
+
+* 🖥️ https://www.youtube.com/watch?v=DKv8xfZ7X0g&list=PLUJzERpatfsW1JBHFEJdWKC26ti3tZJ9U&index=47[T'as vu mes slides ? Je les fais en Typst !] (_Did you see my slides? I'm doing them in Typst!_) at https://bdxio.fr/[BDX I/O] (in Bordeaux, France)
+* 🖥️ https://www.youtube.com/watch?v=XyFN6EywEPw&list=PLL-xGFWSe4-JfIOiJChWYWXkz0ksUg2Ej&index=24[T'as vu mes slides ? Je les fais en Typst !] (_Did you see my slides? I'm doing them in Typst!_) at https://www.volcamp.io/[Volcamp] (in Clermont-Ferrand, France)
+
 === 2024
 
 * 📝 https://devfest-2024.developers-group-dijon.fr/session/ffnpaan4nrclaemrlulc/[Comment ne plus avoir peur de vos fichiers de log] (_How to stop being scared of your log files_) at https://devfest.developers-group-dijon.fr/[DevFest Dijon] (in Dijon, France)
@@ -54,7 +59,6 @@ Sketchnotes and articles on my https://virginie-blog.pageaud.net/[personal blog]
 
 == Contact me
 
-* https://twitter.com/La_Fee_Dragee[Twitter]
 * https://bsky.app/profile/la-fee-dragee.bsky.social[Bluesky]
 * https://www.linkedin.com/in/virginiecasavecchia/[LinkedIn]
 * https://dev.to/fairywen[DEV.to]
